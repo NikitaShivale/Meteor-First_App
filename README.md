@@ -1,5 +1,7 @@
 # Meteor-First_App
 
+![alt text](OutputScreen.png) 
+
 ## Follow the below steps to install Meteor:
 
 On mac: Go to official website of meteor -> go to Installations -> Copy the given command as it is (curl https://install.meteor.com/ | sh) and execute in terminal of your computer -> 
